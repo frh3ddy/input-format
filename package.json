@@ -1,5 +1,5 @@
 {
-  "name": "input-format",
+  "name": "input-format-phone",
   "version": "0.1.4",
   "description": "Formatting user's text input on-the-fly",
   "main": "index.common.js",
